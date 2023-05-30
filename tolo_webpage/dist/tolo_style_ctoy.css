@@ -58,7 +58,6 @@ body {
 
 .card{
   border: none;
-  height:470px;
 }
 
 
@@ -83,7 +82,6 @@ body {
 }
 
 .card-body p{
-  height: 350px;
   margin-left: -10px;
   margin-right: -10px;
   font-size:14px;
