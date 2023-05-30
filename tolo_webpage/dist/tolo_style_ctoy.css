@@ -1,0 +1,101 @@
+/*--------------------------------------------------------------
+
+
+#rgb色彩转化器：https://www.sioe.cn/yingyong/yanse-rgb-16/
+--------------------------------------------------------------*/
+
+
+
+body {
+  background: #929BBA;
+  font-family: 'Poppins', helvetica;
+
+}
+
+/*--------------------------------------------------------------
+# 导航栏
+--------------------------------------------------------------*/
+
+
+.navbar-light{
+  background-color: #E9E9FF;
+}
+
+
+
+.nav-item a{
+  color:black;
+  font-weight:700;
+  font-size:15px;
+  text-shadow: 4px 4px 2px #85BED0;
+
+}
+
+.navbar-light{
+  margin-left: -10px;
+  margin-right: -10px;
+}
+
+
+/*--------------------------------------------------------------
+# 概念部分
+--------------------------------------------------------------*/
+
+
+#title h1{
+  padding-top: 14px;
+  font-size: 50px;
+  text-align: center;
+  color:#E9E9FF;
+  font-weight: 700;
+  letter-spacing: 3px;
+  text-shadow: 2px 8px 1px #B191BB
+}
+
+.row{
+  padding-top: 14px
+}
+
+.card{
+  border: none;
+  height:470px;
+}
+
+
+#card_1{
+  background-color: #4A4B92
+}
+
+#card_2{
+  background-color: #7A9485
+}
+#card_3{
+  background-color: #A46CAF
+}
+#card_4{
+  background-color:  #5996A0
+}
+#card_5{
+  background-color:#6B71AE
+}
+#card_6{
+  background-color:#6F425C
+}
+
+.card-body p{
+  height: 350px;
+  margin-left: -10px;
+  margin-right: -10px;
+  font-size:14px;
+  color:#E9E9FF;
+  line-height: 17px;
+  font-weight:450;
+}
+
+
+
+#mouse img{
+ width:40px;
+ height: 40px;
+
+}
